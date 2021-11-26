@@ -1,0 +1,1 @@
+# AnotherSubstringQueryProblem_Kattis
