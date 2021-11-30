@@ -27,7 +27,7 @@ Output a single integer, which is the position of the start of the kth occurrenc
 
 ## How to run this project
 ```
-$ https://github.com/vamsivenkat987/AnotherSubstringQueryProblem_Kattis.git
+$ git clone https://github.com/vamsivenkat987/AnotherSubstringQueryProblem_Kattis.git
 $ cd src/com/company
 $ java QueryProblem.java < 1.in
 ```
